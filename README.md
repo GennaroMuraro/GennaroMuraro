@@ -39,14 +39,14 @@ além de gostar muito da área de IA.
 />
 <br><br>
 ## 📫 Contatos
-<a href="SEU_GITHUB">
+<a href="https://github.com/GennaroMuraro">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"
     
   >
    
 </a>
 
-<a href="SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/gennaro-muraro-5b59873b8/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"
    style="padding-right: 10px;" >
 </a>
